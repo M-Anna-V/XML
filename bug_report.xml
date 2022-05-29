@@ -1,0 +1,10 @@
+<Bug_id>1</Bug_id>
+<Title>The "SAVE DATA" button is smaller than the others</Title>
+<Severity>trivial</Severity>
+<Priority>low</Priority>
+<Environment>Xiaomi Redmi Note 8 Pro, android 10 QP1A 12.0.8 MIUI  global 12.0.8.0</Environment>      
+<Precondition>Open the app</Precondition>
+<STR>Check the UI</STR>
+<AR>The application buttons have one view</AR>
+<ER>The “SAVE DATA” button is smaller than the others</ER>
+<Attachments>Screenshot1</Attachments>
