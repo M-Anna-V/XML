@@ -1,0 +1,13 @@
+<Bug_id>2</Bug_id>
+<Title>“Add widget” button function is not working on device</Title>
+<Severity>blocker </Severity>
+<Priority>high</Priority>
+<Environment>Xiaomi Redmi Note 8 Pro, android 10 QP1A 12.0.8 MIUI  global 12.0.8.0</Environment>      
+<Precondition>Open the app</Precondition>
+<STR>
+	<First>Open app</First>
+	<Second>Click “Add Widget” button</Second>
+</STR>
+<AR>The application buttons have one view</AR>
+<ER>The “SAVE DATA” button is smaller than the others</ER>
+<Attachments>Screenshot2</Attachments>
